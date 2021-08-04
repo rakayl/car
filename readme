@@ -1,4 +1,5 @@
 1. Masuk ke Branch Master
 2. composer update pada folder
-3. setting database pada .env
-4. migrasi database "php artisan migrate"
+3. Copy .env.example menjadi .env
+4. setting database pada .env
+5. migrasi database "php artisan migrate"
