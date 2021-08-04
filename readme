@@ -1,3 +1,4 @@
-1. composer update pada folder
-2. setting database pada .env
-3. migrasi database "php artisan migrate"
+1. Masuk ke Branch Master
+2. composer update pada folder
+3. setting database pada .env
+4. migrasi database "php artisan migrate"
